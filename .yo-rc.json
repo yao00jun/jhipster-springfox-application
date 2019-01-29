@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSpringfoxApplication",
+    "packageName": "com.feng.springfox",
+    "packageFolder": "com/feng/springfox",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "en",
+      "zh-cn"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.0",
+    "jwtSecretKey": "NzAzNTNkNDNmYjA4MTdiZWE2ZWUzYjc3ODgxMjFiNmU2NWI0Njc1YmE4OGY4MjU5ZDFhNTg2YzRiY2ExYjRiM2ZhMDdiODExNjM5NmUxNDNmYTYyNmZhOWNhZjYzOTA5ZjAzYWFlMGVjNDMyZWI1YjI5MjljODIxYTZlYmFkNjA=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "yao00jun",
+  "repository-name": "jhipster-springfox-application"
+}
